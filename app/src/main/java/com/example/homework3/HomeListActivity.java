@@ -70,6 +70,8 @@ public class HomeListActivity extends AppCompatActivity {
             wordItem[8] = new  WordItem(R.drawable.window2,"Window");
             wordItem[9] = new  WordItem(R.drawable.box,"Box");
 
+            //sawasadee
+
 
         }
 
